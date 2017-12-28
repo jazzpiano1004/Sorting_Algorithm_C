@@ -12,7 +12,6 @@
 
 #ifndef  SORTING_MERGESORT_H
 #define  SORTING_MERGESORT_H
-#endif
 
 #include <stdint.h>
 #include <stdlib.h>
@@ -27,4 +26,4 @@
 void sortingAlgorithm_mergeSort_int32(int32_t *sortData, uint32_t sizeOfSortData, int8_t sortDirection);
 void sortingAlgorithm_mergeSort_float32(float *sortData, uint32_t sizeOfSortData, int8_t sortDirection);
 
-
+#endif
