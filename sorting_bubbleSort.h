@@ -23,4 +23,8 @@
 /* All bubble sort's function */
 void sortingAlgorithm_bubbleSort_int32(int32_t *sortData, uint32_t sizeOfSortData, int8_t sortDirection);
 void sortingAlgorithm_bubbleSort_float32(float *sortData, uint32_t sizeOfSortData, int8_t sortDirection);
+<<<<<<< HEAD
+=======
+
+>>>>>>> 657581f6c233fc84cdb6cc7bcf4c43f868c13a54
 #endif
